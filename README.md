@@ -7,6 +7,10 @@ This is my first assignment as fellow of Arewa Data Science. The assignment is m
 Bio
 My name is Shamsuddeen Yusuf, currently an MSc student of control engineering at ABU Zaria
 
-Date:
+Date
 
 Today Friday 8th of November 2024
+
+Origin
+
+I am from Kano
