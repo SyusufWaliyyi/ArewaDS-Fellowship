@@ -15,3 +15,7 @@ Today Friday 8th of November 2024
 
 I am from Kano
 
+###### Markdown
+for heading use #
+_for italics use * or __
+__for bold is ** or ____
