@@ -25,7 +25,7 @@ __for bold is ** or ____
 - is an unordered list
 - this is it
 
-# nested list
+## nested list
 - numer 1
   - nested 1
   - nested 2
@@ -39,7 +39,11 @@ __for bold is ** or ____
   + nested 2
   + nested 3
 
-Ordered list is using number
+##Ordered list is using number
 1. hi
 2. I am an asprin tech engineer
 3. you are welcome to my page
+4. let us learn together
+5. its will be fun
+6. I assure you
+
