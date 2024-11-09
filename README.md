@@ -47,3 +47,37 @@ __for bold is ** or ____
 5. its will be fun
 6. I assure you
 
+# For link
+write the name in []
+and the link {}
+
+# For image
+use !
+name o the image []
+image extension {"./imagepath.png"}
+
+``` python code
+print('Hello Safiyya')
+```
+
+bash
+
+``` bash
+git clone "repo name"
+```
+
+# creating a table
+|Name          |Role      |Department   |
+|--------------|----------|-------------|
+|Shamsuddeen          |Mentee     |Control Engineering   |
+
+# Task list
+- [ ] Shamsuddeen
+- [ ] Yusuf
+- [ ] Safiyya
+- [ ] Islam
+
+# Horixontal line
+---
+hi shamsuddeen
+---
